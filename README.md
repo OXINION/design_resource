@@ -18,7 +18,7 @@
 
 
 ## Easy edit
-> This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
+> Websites where you can manage your design portfolio and get inspired by other's masterpiece 
 
 | Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
@@ -26,7 +26,7 @@
 
 
 ## Free images
-> This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
+> Websites where you can get free pictures for commercial use with high quality 
 
 | Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
