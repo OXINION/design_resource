@@ -17,11 +17,9 @@
 
 ## Easy edit
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
-| Source              | Website           |
-| -------------       |:-------------:|
-| Canva               | https://www.canva.com/ |
-| col 2 is            | centered      |
-| zebra stripes       | are neat      |
+| Source                                                           | Website                                             |
+| ---------------------------------------------------------------- | --------------------------------------------------- |
+| [Canva](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
 
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
