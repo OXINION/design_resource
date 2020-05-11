@@ -22,6 +22,6 @@
 | [Canva](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
 
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Description                                         |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 | [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
