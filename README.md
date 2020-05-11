@@ -2,7 +2,7 @@
 
 Stock photo 
 pixabay 
-| Tables        | Are           | Cool  |
+| Tables        | Are           |
 | ------------- |:-------------:|
 | facebook mockup     | https://facebook.design/devices |
 | col 2 is      | centered      |
