@@ -2,9 +2,12 @@
 
 ## Products/ Mockups
 > Download all of popular devices mockup on your computer
-| Source              | Website                          |
-| ------------------  |:-------------------------------: |                 
-| facebook mockup     | https://facebook.design/devices  |
+
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
+| ---------------------------------------------------------------- | --------------------------------------------------- |
+| Facebook Design                                                  | https://facebook.design/devices                     |
+               
+| facebook mockup     |   |
                   
 
 ## Portfolio/inspiration 
@@ -18,7 +21,7 @@
 ## Easy edit
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
 
-| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                         |
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 | [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
 
