@@ -22,3 +22,8 @@
 | Canva               | https://www.canva.com/ |
 | col 2 is            | centered      |
 | zebra stripes       | are neat      |
+
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
