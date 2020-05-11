@@ -6,28 +6,28 @@
 | Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 | Facebook Design                                                  | https://facebook.design/devices                     |
-               
-| facebook mockup     |   |
                   
 
 ## Portfolio/inspiration 
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
-| Source              | Website           |
-| -------------       |:-------------:|
-| Behance             | https://www.behance.net/oxinion |
-| col 2 is            | centered      |
-| zebra stripes       | are neat      |
+
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
+| ---------------------------------------------------------------- | --------------------------------------------------- |
+| Behance                                                          | https://www.behance.net/oxinion                     |
+
+
 
 ## Easy edit
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
 
 | Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
-| [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
+| Canva                                                            | https://www.canva.com/                              |
+
 
 ## Easy edit
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
 
-| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Website                                         |
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Website                                              |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 | [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
