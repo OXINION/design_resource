@@ -2,11 +2,10 @@
 
 ## Products/ Mockups
 > Download all of popular devices mockup on your computer
-| Source              | Website                         
-| -------------       |:-------------:                  
-| facebook mockup     | https://facebook.design/devices 
-| col 2 is            | centered                        
-| zebra stripes       | are neat                        
+| Source              | Website                          |
+| ------------------  |:-------------------------------: |                 
+| facebook mockup     | https://facebook.design/devices  |
+                  
 
 ## Portfolio/inspiration 
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
