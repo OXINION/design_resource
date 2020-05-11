@@ -1,7 +1,7 @@
 # design_resource
 
 ## Products/ Mockups
-| Tables              | Website           |
+| Source              | Website           |
 | -------------       |:-------------:|
 | facebook mockup     | https://facebook.design/devices |
 | col 2 is            | centered      |
