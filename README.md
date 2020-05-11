@@ -1,6 +1,6 @@
 # design_resource
 
-# Products/ Mockups
+## Products/ Mockups
 | Tables              | Website           |
 | -------------       |:-------------:|
 | facebook mockup     | https://facebook.design/devices |
