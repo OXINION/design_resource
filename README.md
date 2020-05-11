@@ -25,9 +25,10 @@
 | Canva                                                            | https://www.canva.com/                              |
 
 
-## Easy edit
+## Free images
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
 
-| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Website                                              |
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
-| [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
+| pixabay                                                          | https://pixabay.com/                                |
+| pexels                                                           | https://www.pexels.com/                             |
