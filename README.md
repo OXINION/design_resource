@@ -1,9 +1,8 @@
 # design_resource
 
-Stock photo 
-pixabay 
-| Tables        | Are           |
-| ------------- |:-------------:|
+# Products/ Mockups
+| Tables              | Website           |
+| -------------       |:-------------:|
 | facebook mockup     | https://facebook.design/devices |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| col 2 is            | centered      |
+| zebra stripes       | are neat      |
