@@ -17,11 +17,12 @@
 
 ## Easy edit
 > This is websites where you can manage your design portfolio and get inspired by other's masterpiece 
-| Source                                                           | Website                                             |
+
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Website                                         |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
-| [Canva](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
+| [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
 
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Description                                         |
+| Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Website                                         |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 | [UI Design Daily](https://uidesigndaily.com/)                    | Awesome UI Components of all types                  |
