@@ -32,3 +32,4 @@
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 | pixabay                                                          | https://pixabay.com/                                |
 | pexels                                                           | https://www.pexels.com/                             |
+| RemoveBG                                                         | https://www.remove.bg/                              |
